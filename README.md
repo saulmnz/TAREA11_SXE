@@ -4,7 +4,7 @@
 
 <br>
 
-### PREPARAR IDE 🐳 :
+## PREPARAR IDE 🐳 :
 
 - **Varias extensiones necesarias ya vienen instaladas por defecto ( Como YAML o EnvFiles ) con el ide escogido, Pycharm. 🦦**
 
@@ -22,7 +22,7 @@
 
 <br>
 
-### ARCHIVO DE CONFIGURACIÓN DOCKER COMPOSE 🐙
+## ARCHIVO DE CONFIGURACIÓN DOCKER COMPOSE 🐙
 
 ```yaml
 services:
@@ -75,20 +75,22 @@ volumes:
 
 ---
 
-### CAPTURA DE PANTALLA CONFORME TODO FUNCIONA CORRECTAMENTE 🦔
 
-> **ODOO 🐇**
-![img](img/4.png)
+## CAPTURA DE PANTALLA CONFORME TODO FUNCIONA CORRECTAMENTE 🦔
 
-> **PGADMIN E INSTALACIÓN BASE DE DATOS PARA ODOO EN PGADMIN 🐘**
-![img](img/5.png)
-![img](img/6.png)
-![img](img/9.png)
-![img](img/10.png)
+- **ODOO 🐇**
+>![img](img/4.png)
+
+
+- **PGADMIN E INSTALACIÓN BASE DE DATOS PARA ODOO EN PGADMIN 🐘**
+>![img](img/5.png)
+>![img](img/6.png)
+>![img](img/9.png)
+>![img](img/10.png)
 
 ---
  
-### EXPLORAR ODOO CON DATOS DEMO 👀
+## EXPLORAR ODOO CON DATOS DEMO 👀
 
 - **CARGAMOS DATOS DE DEMOSTRACIÓN PARA MOSTRAR LA INSTALACIÓN DE MÓDULOS BÁSICOS 🤖**
 
