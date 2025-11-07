@@ -4,15 +4,13 @@
 
 ## PREPARAR IDE 🐳:
 
-> **Varias extensiones necesarias ya vienen instaladas por defecto ( Como YAML o EnvFiles ) con el ide escogido, Pycharm. 🦦**
+> **VARIAS EXTENSIONES NECESARIAS YA VIENEN INSTALADAS POR DEFECTO (COMO YAML O ENVFILES) CON EL IDE ESCOGIDO, PYCHARM. 🦦**
 
-<br>
-
-- **La propia extensión de docker. ( Ya viene instalada, quizás haya que realizar un update del pluggin ) 🎳**
+- **LA PROPIA EXTENSIÓN DE DOCKER. ( YA VIENE INSTALADA, QUIZÁS HAYA QUE REALIZAR UN UPDATE DEL PLUGIN ) 🎳**
 
 ![IMG](img/1.png)
 
-- **Un Pluggin que nos ayude a gestionar bases de datos 🧟**
+- **UN PLUGIN QUE NOS AYUDE A GESTIONAR BASES DE DATOS 🧟**
 
 ![IMG](img/3.png)
 
