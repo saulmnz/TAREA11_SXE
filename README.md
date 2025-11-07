@@ -85,6 +85,7 @@ volumes:
 - **PGADMIN E INSTALACIÓN BASE DE DATOS PARA ODOO EN PGADMIN 🐘**
 >![img](img/5.png)
 >![img](img/6.png)
+>![img](img/8.png)
 >![img](img/9.png)
 >![img](img/10.png)
 
