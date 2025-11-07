@@ -1,10 +1,10 @@
-# TAREA 11 SXE Saúl 👻👻👻
+# TAREA 11 SXE Saúl 🧆🧃
 
 ![img](https://i.pinimg.com/originals/7c/04/84/7c04844701719567b18880a8f046d39a.gif)
 
 <br>
 
-# PREPARAR IDE 🐳 :
+# PREPARAR IDE ⛳ :
 
 - **Varias extensiones necesarias ya vienen instaladas por defecto ( Como YAML o EnvFiles ) con el ide escogido, Pycharm. 🦦**
 
