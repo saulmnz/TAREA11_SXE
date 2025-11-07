@@ -89,7 +89,9 @@ volumes:
 >![img](img/10.png)
 
 ---
- 
+
+<br>
+
 ## EXPLORAR ODOO CON DATOS DEMO 👀
 
 - **CARGAMOS DATOS DE DEMOSTRACIÓN PARA MOSTRAR LA INSTALACIÓN DE MÓDULOS BÁSICOS 🤖**
