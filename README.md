@@ -8,13 +8,11 @@
 
 - **LA PROPIA EXTENSIÓN DE DOCKER. ( YA VIENE INSTALADA, QUIZÁS HAYA QUE REALIZAR UN UPDATE DEL PLUGIN ) 🎳**
 
-![IMG](img/1.png)
+> ![IMG](img/1.png)
 
 - **UN PLUGIN QUE NOS AYUDE A GESTIONAR BASES DE DATOS 🧟**
 
-![IMG](img/3.png)
-
---- 
+> ![IMG](img/3.png)
 
 <br>
 
