@@ -4,7 +4,7 @@
 
 ## PREPARAR IDE 🐳:
 
-- **Varias extensiones necesarias ya vienen instaladas por defecto ( Como YAML o EnvFiles ) con el ide escogido, Pycharm. 🦦**
+> **Varias extensiones necesarias ya vienen instaladas por defecto ( Como YAML o EnvFiles ) con el ide escogido, Pycharm. 🦦**
 
 <br>
 
