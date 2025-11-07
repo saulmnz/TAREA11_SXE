@@ -69,10 +69,10 @@ volumes:
   pgadmin_data:
 ```
 
----
+<br>
 
 
-## CAPTURA DE PANTALLA CONFORME TODO FUNCIONA CORRECTAMENTE 🦔
+### **CAPTURA DE PANTALLA CONFORME TODO FUNCIONA CORRECTAMENTE 🦔**
 
 - **ODOO 🐇‼️**
 >![img](img/4.png)
