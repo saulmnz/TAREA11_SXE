@@ -2,8 +2,6 @@
 
 ![img](https://i.pinimg.com/originals/42/45/54/42455498933d57e8af7156813472d0fa.gif)
 
-<br>
-
 ## PREPARAR IDE 🐳:
 
 - **Varias extensiones necesarias ya vienen instaladas por defecto ( Como YAML o EnvFiles ) con el ide escogido, Pycharm. 🦦**
