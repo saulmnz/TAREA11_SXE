@@ -1,10 +1,10 @@
-# TAREA 11 SXE Saúl 🌼🌻🌷
+# TAREA 11 SXE Saúl 🧤
 
 ![img](https://i.pinimg.com/originals/42/45/54/42455498933d57e8af7156813472d0fa.gif)
 
 <br>
 
-## PREPARAR IDE 🐳 :
+## PREPARAR IDE 🐳:
 
 - **Varias extensiones necesarias ya vienen instaladas por defecto ( Como YAML o EnvFiles ) con el ide escogido, Pycharm. 🦦**
 
@@ -22,7 +22,7 @@
 
 <br>
 
-## ARCHIVO DE CONFIGURACIÓN DOCKER COMPOSE 🐙
+## ARCHIVO DE CONFIGURACIÓN DOCKER COMPOSE 🐙‼️
 
 ```yaml
 services:
@@ -78,11 +78,11 @@ volumes:
 
 ## CAPTURA DE PANTALLA CONFORME TODO FUNCIONA CORRECTAMENTE 🦔
 
-- **ODOO 🐇**
+- **ODOO 🐇‼️**
 >![img](img/4.png)
 
 
-- **PGADMIN E INSTALACIÓN BASE DE DATOS PARA ODOO EN PGADMIN 🐘**
+- **PGADMIN E INSTALACIÓN BASE DE DATOS ODOO EN PGADMIN 🐘‼️**
 >![img](img/5.png)
 >![img](img/6.png)
 >![img](img/8.png)
@@ -93,7 +93,7 @@ volumes:
 
 <br>
 
-## EXPLORAR ODOO CON DATOS DEMO 👀
+## EXPLORAR ODOO CON DATOS DEMO 👀‼️
 
 - **CARGAMOS DATOS DE DEMOSTRACIÓN PARA MOSTRAR LA INSTALACIÓN DE MÓDULOS BÁSICOS 🤖**
 
