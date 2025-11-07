@@ -8,11 +8,11 @@
 
 <br>
 
-> **1. La propia extensión de docker. ( Ya viene instalada, quizás haya que realizar un update del pluggin ) 🎳**
+- **La propia extensión de docker. ( Ya viene instalada, quizás haya que realizar un update del pluggin ) 🎳**
 
 ![IMG](img/1.png)
 
-> **2. Un Pluggin que nos ayude a gestionar bases de datos 🧟**
+- **Un Pluggin que nos ayude a gestionar bases de datos 🧟**
 
 ![IMG](img/3.png)
 
@@ -101,6 +101,7 @@ volumes:
 >![img](img/13.png)
 >![img](img/14.png)
 
+<br>
 
 - **INSPECCIONAMOS LA BASE DE DATOS A TRAVÉS DE PgAdmin 🫧**
 
